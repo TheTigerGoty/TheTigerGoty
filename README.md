@@ -8,7 +8,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Me encuentro cursando la carrera de Desarrollo de Software, especializandome actualmente en el Desarrollo Web.
+🎓 Me encuentro cursando la carrera de Computacion e Informatica, especializandome actualmente en el Desarrollo Web.
 
 💻 Busco seguir experimentandome en los lenguajes mas pedidos en el mercado.
 
